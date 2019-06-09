@@ -1,11 +1,11 @@
 # chromium_swiftshader_super_speed_griggorii_patent_revers
-chromium swiftshader super speed griggorii patent revers my license commercial egl graphics
+chromium swiftshader super speed griggorii patent revers my license commercial egl graphics color
 
 Download inpack https://github.com/Griggorii/chromium_swiftshader_super_speed_griggorii_patent_revers/blob/master/chromium-browser/swiftshader/chromium-browser.7z
 
 New api speed boost 
 
-chromium-browser/swiftshader backup replace test open youtube 4K 8K video example https://www.youtube.com/watch?v=n-RjGEWW3nk 4K https://www.youtube.com/watch?v=RK1K2bCg4J8
+chromium-browser/swiftshader backup replace test open youtube 4K 8K video example https://www.youtube.com/watch?v=n-RjGEWW3nk 4K https://www.youtube.com/watch?v=RK1K2bCg4J8 color https://www.youtube.com/watch?v=XPmBnnon0Ek good so ?
 
 chrome analog instructions
 
