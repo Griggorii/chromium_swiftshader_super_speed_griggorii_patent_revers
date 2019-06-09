@@ -2,3 +2,7 @@
 chromium swiftshader super speed griggorii patent revers my license commercial
 
 New api speed boost 
+
+chromium-browser/swiftshader backup replace test open youtube 4K 8K video
+
+chrome analog instructions
