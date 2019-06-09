@@ -5,6 +5,6 @@ Download inpack https://github.com/Griggorii/chromium_swiftshader_super_speed_gr
 
 New api speed boost 
 
-chromium-browser/swiftshader backup replace test open youtube 4K 8K video example https://www.youtube.com/watch?v=n-RjGEWW3nk
+chromium-browser/swiftshader backup replace test open youtube 4K 8K video example https://www.youtube.com/watch?v=n-RjGEWW3nk 4K https://www.youtube.com/watch?v=RK1K2bCg4J8
 
 chrome analog instructions
