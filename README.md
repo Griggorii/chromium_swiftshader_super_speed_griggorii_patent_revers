@@ -3,6 +3,8 @@ chromium swiftshader super speed griggorii patent revers my license commercial e
 
 config https://github.com/Griggorii/chromium_swiftshader_super_speed_griggorii_patent_revers/blob/master/chromium.zip
 
+Download browser https://dropmefiles.com.ua/4cX8KAR
+
 Download inpack librare https://github.com/Griggorii/chromium_swiftshader_super_speed_griggorii_patent_revers/blob/master/chromium-browser/swiftshader/chromium-browser.7z
 
 New api speed boost 
